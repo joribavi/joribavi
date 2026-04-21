@@ -1,6 +1,6 @@
 # Hi everyone, I'm Jonathan! 👋
 
-🎓 **Student @ BYU-Pathway Worldwide and former student at Ensign College, where I got a  Certificate in Technical Support Engineering**  
+🎓 **Student @ BYU-Pathway Worldwide, where I got a Certificate in Web and Computer Programming, also former student at Ensign College, where I got a  Certificate in Technical Support Engineering**  
 
 🚀 **Aspiring Web & Software Developer**
 
@@ -16,8 +16,8 @@ As an entrepreneur, I even created a website for my own small business. Now, I'm
 
 ## 🛠️ My Skills
 
-- **Languages:** HTML, CSS, JavaScript, Java, Python (just starting)
-- **Frameworks/Libraries:** React (learning), PHP for WordPress (learning)
+- **Languages:** HTML, CSS, JavaScript, Java, Python 
+- **Frameworks/Libraries:** React (basics), PHP for WordPress (basics), Tailwind CSS (Basics)
 - **Interests:** Web design, UI/UX, Software Development, entrepreneurship
 
 ---
@@ -25,14 +25,14 @@ As an entrepreneur, I even created a website for my own small business. Now, I'm
 ## 🌱 What I'm Up To
 
 - 📚 Studying Web and Software development at BYU-Pathway Worldwide
-- 💡 Learning React and PHP for WordPress
-- 💼 Looking for opportunities to gain experience and grow as a developer
+- 💡 Learning other technologies and programming languages through real world projects
+- 💼 Looking for opportunities to grow 
 
 ---
 
 ## 📂 My Learning Projects
 
-Check out my repositories where I practiced HTML, CSS, and JavaScript as I learned the basics!
+Check out my repositories where I practiced HTML, CSS, and JavaScript and other languages
 
 ---
 
@@ -42,5 +42,4 @@ I love connecting with other learners and professionals. Feel free to reach out 
 
 ---
 
-> “The best way to predict the future is to invent it.” – Alan Kay
 
